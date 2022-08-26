@@ -102,3 +102,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+cs50/problems/2022/python/seasons/einstein.py
